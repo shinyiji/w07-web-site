@@ -1,0 +1,31 @@
+h1 {
+  color: #760BF3 ;
+}
+
+h2{
+  text-align: center;
+  font-weight: 550
+}
+
+span{
+  color : #5607B2;
+  size: 100px
+}
+
+body{
+   background-color:  #E3CDFE;
+}
+
+div{
+  text-align :center;
+
+}
+#active {
+    color: #984BF2;
+    text-decoration-line: underline;
+  }
+
+.saw {
+    color: black;
+    text-decoration-line: none;
+  }
